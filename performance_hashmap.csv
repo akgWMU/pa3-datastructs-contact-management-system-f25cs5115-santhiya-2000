@@ -1,0 +1,13 @@
+DataStructure,Operation,Contacts,Time_ms
+HashMap,Insert,100,0.094
+HashMap,Search,100,0.011
+HashMap,Update,100,0.017
+HashMap,Delete,100,0.022
+HashMap,Insert,500,0.368
+HashMap,Search,500,0.070
+HashMap,Update,500,0.094
+HashMap,Delete,500,0.117
+HashMap,Insert,1000,0.807
+HashMap,Search,1000,0.200
+HashMap,Update,1000,0.223
+HashMap,Delete,1000,0.275

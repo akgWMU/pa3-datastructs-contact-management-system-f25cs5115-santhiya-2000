@@ -1,0 +1,13 @@
+DataStructure,Operation,Contacts,Time_ms
+BST,Insert,100,0.101
+BST,Search,100,0.018
+BST,Update,100,0.023
+BST,Delete,100,0.030
+BST,Insert,500,0.486
+BST,Search,500,0.119
+BST,Update,500,0.140
+BST,Delete,500,0.146
+BST,Insert,1000,0.994
+BST,Search,1000,0.222
+BST,Update,1000,0.263
+BST,Delete,1000,0.264

@@ -1,0 +1,13 @@
+DataStructure,Operation,Contacts,Time_ms
+AVL,Insert,100,0.061
+AVL,Search,100,0.010
+AVL,Update,100,0.012
+AVL,Delete,100,0.025
+AVL,Insert,500,0.317
+AVL,Search,500,0.063
+AVL,Update,500,0.075
+AVL,Delete,500,0.141
+AVL,Insert,1000,0.634
+AVL,Search,1000,0.146
+AVL,Update,1000,0.165
+AVL,Delete,1000,0.301

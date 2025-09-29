@@ -1,0 +1,13 @@
+DataStructure,Operation,Contacts,Time_ms
+LinkedList,Insert,100,0.106
+LinkedList,Search,100,0.045
+LinkedList,Update,100,0.048
+LinkedList,Delete,100,0.012
+LinkedList,Insert,500,0.785
+LinkedList,Search,500,0.981
+LinkedList,Update,500,1.003
+LinkedList,Delete,500,0.043
+LinkedList,Insert,1000,2.000
+LinkedList,Search,1000,3.216
+LinkedList,Update,1000,2.958
+LinkedList,Delete,1000,0.086

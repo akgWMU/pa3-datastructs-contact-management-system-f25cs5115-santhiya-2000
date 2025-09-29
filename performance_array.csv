@@ -1,0 +1,13 @@
+DataStructure,Operation,Contacts,Time_ms
+Array,Insert,100,0.058
+Array,Search,100,0.035
+Array,Update,100,0.038
+Array,Delete,100,0.047
+Array,Insert,500,0.298
+Array,Search,500,0.725
+Array,Update,500,0.724
+Array,Delete,500,0.634
+Array,Insert,1000,0.492
+Array,Search,1000,2.580
+Array,Update,1000,3.395
+Array,Delete,1000,2.868
